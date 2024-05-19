@@ -48,7 +48,9 @@ body {
     letter-spacing: 0.02em;
     color: #434455;
 }
-.contacts:hover,
+.contacts:hover {
+    color:  #404bbf; 
+}
 .contacts:focus {
     color:  #404bbf;
 }
