@@ -48,9 +48,7 @@ body {
     letter-spacing: 0.02em;
     color: #434455;
 }
-.contacts:hover {
-    color:  #404bbf; 
-}
+.contacts:hover,
 .contacts:focus {
     color:  #404bbf;
 }
@@ -76,7 +74,7 @@ body {
     cursor: pointer;
 }
 .button:hover,
-.button:focus {
+.button:focuss {
     background-color: #404bbf;
 }
 .section-title {
