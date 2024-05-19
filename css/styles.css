@@ -13,7 +13,7 @@ body {
     color: #4d5ae5;
     line-height: 1.17;
 }
-.header-nav-logo {
+.logo-nav-color {
     font-family: "Raleway", sans-serif;
     font-weight: 700;
     font-size: 18px;
@@ -76,10 +76,10 @@ body {
     cursor: pointer;
 }
 .button:hover {
-    background-color: #404BBF;
+    background-color: #404bbf;
 }
 .button:active {
-    background-color: #404BBF;
+    background-color: #404bbf;
 }
 .section-title {
     font-weight: 500;
@@ -166,4 +166,12 @@ body {
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: #f4f4fd;
+}
+.footer-color-logo {
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #4d5ae5;
 }
