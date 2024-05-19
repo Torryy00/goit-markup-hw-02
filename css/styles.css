@@ -45,14 +45,15 @@ body {
     color:  #404bbf;
 }
 .contacts {
+    font-style: normal;
+}
+.contacts-link {
     font-family: "Roboto", sans-serif;
     font-weight: 400;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
-    font-style: normal;
-
 }
 .headline-button {
     background-color: #2E2F42;
