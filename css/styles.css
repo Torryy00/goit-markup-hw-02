@@ -36,13 +36,6 @@ body {
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #2e2f42;
-
-}
-.contacts:hover {
-    color:  #404bbf;
-}
-.contacts:focus {
-    color:  #404bbf;
 }
 .contacts {
     font-style: normal;
@@ -54,6 +47,10 @@ body {
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
+}
+.contacts:hover,
+.contacts:focus {
+    color:  #404bbf;
 }
 .headline-button {
     background-color: #2E2F42;
@@ -76,9 +73,7 @@ body {
     background: #4d5ae5;
     cursor: pointer;
 }
-.button:hover {
-    background-color: #404bbf;
-}
+.button:hover,
 .button:active {
     background-color: #404bbf;
 }
@@ -161,6 +156,7 @@ body {
     background-color: #2E2F42;
 }
 .footer-logo-color {
+    font-family: "Raleway", sans-serif;
     font-weight: 700;
     font-size: 18px;
     line-height: 1.17;
@@ -169,6 +165,7 @@ body {
     color: #f4f4fd;
 }
 .footer-color-logo {
+    font-family: "Raleway", sans-serif;
     font-weight: 700;
     font-size: 18px;
     line-height: 1.17;
